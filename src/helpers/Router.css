@@ -1,0 +1,16 @@
+.active{
+    box-shadow: 0 5px 10px rgb(0 0 0 / 15%);
+    color: black !important;
+    text-decoration: none;
+    width: 100%;
+    color: inherit;
+    display: flex;
+     align-items: center;
+}
+.link{
+    text-decoration: none;
+    width: 100%;
+    color: inherit;
+    display: flex;
+     align-items: center;
+}
