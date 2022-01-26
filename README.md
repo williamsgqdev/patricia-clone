@@ -1,12 +1,12 @@
-# (PATRICIA CLONE) [https://peaceful-dubinsky-e0876a.netlify.app/]
+## PATRICIA CLONE
 
-## Overview
+### Overview
 
 Patricia Clone is a replica of the main patricia app . It was made for practice purpose , simulating fintech experience such as sending , top up and receiving of currency and crypto . This was built using react and firebase and package manger npm (package.json) .
 
-## Live Link : (https://peaceful-dubinsky-e0876a.netlify.app/)
+### Live Link : (https://peaceful-dubinsky-e0876a.netlify.app/)
 
-# Features
+## Features
 
 - simulating sending and receiving of money .
 
@@ -18,7 +18,7 @@ Patricia Clone is a replica of the main patricia app . It was made for practice 
 
 - authenticating users .
 
-# Runnig this project locally
+## Runnig this project locally
 
 1. Clone this project locally .
 
