@@ -4,7 +4,7 @@
 
 Patricia Clone is a replica of the main patricia app . It was made for practice purpose , simulating fintech experience such as sending , top up and receiving of currency and crypto . This was built using react and firebase and package manger npm (package.json) .
 
-### Live Link : (https://peaceful-dubinsky-e0876a.netlify.app/)
+Live Link : (https://peaceful-dubinsky-e0876a.netlify.app/)
 
 ## Features
 
@@ -28,7 +28,7 @@ Patricia Clone is a replica of the main patricia app . It was made for practice 
 
 4. Run `npm start` in your bash / command line .
 
-# Dev Dependencies
+## Dev Dependencies
 
 - lottiefiles/lottie-player
 
